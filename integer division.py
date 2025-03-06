@@ -8,6 +8,6 @@ if bolen == 0:
 sayac = 0
 while bolunen >= bolen:
     bolunen -= bolen
-    sayac += 1
+    sayac += 2
 
 print(sayac)
