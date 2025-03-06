@@ -10,7 +10,7 @@ if sayı2 == 1:
     sayac = sayac + sayı1
 
 else:
-      for i in range(1,sayı2):
+      for i in range(2,sayı2):
         sayı2 -= 1
         sayac = sayac + sayı1
 
